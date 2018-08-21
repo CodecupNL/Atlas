@@ -1,0 +1,572 @@
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 L  n  L  h  L  g  L 
+	 s  L  w  L  g  L  y 
+	 L  o  L  i  L  t  L 
+	 u  L  l <a> L  u  L 
+	 c  L  y  L  w  L  z 
+	 L  c  L  k  L  h  L 
+	 t  L  n  L  m  L  n 
+waarde:     9
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 W  H  T  l  I  N  G 
+	 C  O  W  l  L  l  S 
+	 C  U  Z  l  l  l  G 
+	 K  U  l <a> l  l  Y 
+	 T  H  l  l  l  l  Y 
+	 l  l  l  l  l  l  M 
+	 l  N  l  l  l  l  N 
+waarde:    15
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 E  v  E  z  E  q  E 
+	 g  E  y  E  r  E  y 
+	 E  w  E  g  E  h  E 
+	 g  E  b <b> E  e  E 
+	 t  E  f  E  h  E  v 
+	 E  i  E  r  E  r  E 
+	 l  E  u  E  a  E  x 
+waarde:    38
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 V  Q  R  Z  W  e  G 
+	 B  e  F  T  e  e  Y 
+	 H  e  V  I  E  e  Y 
+	 e  e  R <b> e  e  G 
+	 A  H  R  e  e  e  G 
+	 e  e  e  e  e  e  e 
+	 X  e  U  L  e  e  e 
+waarde:    26
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 E  v  E  z  E  q  E 
+	 g  E  y  E  r  E  y 
+	 E  w  E  g  E  h  E 
+	 g  E  b <c> E  e  E 
+	 t  E  f  E  h  E  v 
+	 E  i  E  r  E  r  E 
+	 l  E  u  E  a  E  x 
+waarde:    39
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 V  Q  R  Z  W  e  G 
+	 B  e  F  T  e  e  Y 
+	 H  e  V  I  E  e  Y 
+	 e  e  R <c> e  e  G 
+	 A  H  R  e  e  e  G 
+	 e  e  e  e  e  e  e 
+	 X  e  U  L  e  e  e 
+waarde:    27
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 W  d  W  s  W  z  W 
+	 c  W  h  W  c  W  q 
+	 W  w  W  v  W  u  W 
+	 s  W  s <d> W  p  W 
+	 b  W  l  W  j  W  q 
+	 W  p  W  f  W  t  W 
+	 e  W  a  W  h  W  g 
+waarde:     4
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 w  w  w  Z  w  C  D 
+	 w  H  w  C  w  Q  S 
+	 w  W  w  V  w  w  S 
+	 w  U  w <d> P  w  S 
+	 B  w  w  L  J  w  Q 
+	 w  P  w  F  w  w  w 
+	 w  A  H  T  w  E  G 
+waarde:     4
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 P  m  P  k  P  b  P 
+	 r  P  r  P  n  P  q 
+	 P  w  P  t  P  i  P 
+	 w  P  i <e> P  i  P 
+	 k  P  s  P  t  P  m 
+	 P  d  P  l  P  d  P 
+	 w  P  g  P  v  P  q 
+waarde:     9
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 p  M  p  K  p  B  p 
+	 p  p  R  p  Q  N  p 
+	 W  p  R  T  p  p  W 
+	 p  p  p <e> I  p  S 
+	 p  p  M  K  I  p  D 
+	 p  p  p  T  I  W  D 
+	 p  p  V  L  p  Q  G 
+waarde:     5
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 K  u  K  c  K  l  K 
+	 f  K  t  K  y  K  q 
+	 K  e  K  i  K  n  K 
+	 i  K  y <f> K  s  K 
+	 a  K  z  K  w  K  i 
+	 K  k  K  r  K  n  K 
+	 o  K  n  K  k  K  r 
+waarde:     4
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 C  U  F  k  k  Q  Y 
+	 k  I  T  k  k  E  Y 
+	 k  k  k  k  k  N  S 
+	 k  A  Z <f> k  W  k 
+	 k  I  K  L  I  k  k 
+	 k  O  R  k  k  N  k 
+	 k  K  k  k  k  N  R 
+waarde:    10
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 C  c  C  v  C  v  C 
+	 t  C  d  C  j  C  i 
+	 C  d  C  g  C  b  C 
+	 v  C  o <g> C  d  C 
+	 i  C  n  C  g  C  e 
+	 C  q  C  x  C  x  C 
+	 h  C  t  C  z  C  b 
+waarde:     6
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 c  C  c  V  c  V  c 
+	 c  c  J  T  c  c  D 
+	 c  c  B  c  I  V  D 
+	 c  O  c <g> c  c  G 
+	 c  c  c  Q  I  N  D 
+	 c  X  c  c  H  E  G 
+	 c  X  c  T  Z  c  B 
+waarde:     2
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 V  l  V  n  V  x  V 
+	 p  V  n  V  c  V  i 
+	 V  d  V  v  V  o  V 
+	 z  V  x <h> V  v  V 
+	 z  V  u  V  j  V  z 
+	 V  f  V  d  V  h  V 
+	 z  V  r  V  f  V  k 
+waarde:     1
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 v  v  v  L  v  N  P 
+	 v  X  v  C  v  N  v 
+	 v  V  v  v  I  v  D 
+	 v  O  V <h> v  v  v 
+	 J  X  v  Z  v  F  v 
+	 v  U  v  Z  v  v  D 
+	 F  H  Z  Z  v  K  R 
+waarde:     2
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 L  g  L  i  L  q  L 
+	 v  L  v  L  q  L  o 
+	 L  u  L  f  L  i  L 
+	 d  L  v <i> L  z  L 
+	 v  L  a  L  b  L  f 
+	 L  u  L  q  L  x  L 
+	 v  L  j  L  w  L  v 
+waarde:    14
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 Q  V  V  l  I  Q  G 
+	 F  O  V  l  I  l  D 
+	 V  U  Z  l  l  l  B 
+	 F  A  l <i> l  l  Q 
+	 V  U  l  l  l  l  J 
+	 l  X  l  l  l  l  W 
+	 l  l  l  l  l  l  V 
+waarde:     9
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 F  p  F  a  F  s  F 
+	 r  F  f  F  b  F  n 
+	 F  c  F  u  F  w  F 
+	 p  F  l <j> F  s  F 
+	 l  F  g  F  m  F  b 
+	 F  b  F  w  F  h  F 
+	 n  F  q  F  c  F  e 
+waarde:     1
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 f  P  f  f  f  f  S 
+	 F  A  R  f  B  f  f 
+	 C  f  f  W  f  N  P 
+	 f  U  f <j> f  f  S 
+	 f  M  f  L  B  f  G 
+	 B  f  W  L  f  f  f 
+	 Q  H  f  C  f  N  E 
+waarde:     3
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 F  p  F  a  F  s  F 
+	 r  F  f  F  b  F  n 
+	 F  c  F  u  F  w  F 
+	 p  F  l <k> F  s  F 
+	 l  F  g  F  m  F  b 
+	 F  b  F  w  F  h  F 
+	 n  F  q  F  c  F  e 
+waarde:     1
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 f  P  f  f  f  f  S 
+	 F  A  R  f  B  f  f 
+	 C  f  f  W  f  N  P 
+	 f  U  f <k> f  f  S 
+	 f  M  f  L  B  f  G 
+	 B  f  W  L  f  f  f 
+	 Q  H  f  C  f  N  E 
+waarde:     3
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 Y  x  Y  t  Y  c  Y 
+	 f  Y  p  Y  m  Y  f 
+	 Y  c  Y  s  Y  j  Y 
+	 t  Y  c <l> Y  d  Y 
+	 u  Y  n  Y  o  Y  x 
+	 Y  p  Y  c  Y  r  Y 
+	 f  Y  w  Y  r  Y  o 
+waarde:     6
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 C  X  F  T  P  M  y 
+	 F  y  C  S  J  C  y 
+	 D  y  y  T  O  N  y 
+	 P  y  U <l> X  C  y 
+	 F  y  y  y  W  R  y 
+	 R  y  y  y  y  y  y 
+	 O  y  y  y  y  y  y 
+waarde:    12
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 R  f  R  l  R  m  R 
+	 t  R  r  R  x  R  f 
+	 R  c  R  h  R  x  R 
+	 f  R  k <m> R  n  R 
+	 c  R  t  R  z  R  k 
+	 R  w  R  i  R  a  R 
+	 y  R  c  R  g  R  x 
+waarde:     4
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 F  M  r  L  F  C  r 
+	 F  X  r  T  C  N  r 
+	 W  H  r  K  I  r  r 
+	 r  X  r <m> Y  r  r 
+	 r  r  r  T  C  r  r 
+	 r  r  R  Z  G  r  r 
+	 r  A  r  K  X  r  r 
+waarde:     3
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 J  n  J  d  J  w  J 
+	 i  J  a  J  i  J  f 
+	 J  j  J  f  J  c  J 
+	 s  J  a <n> J  g  J 
+	 s  J  a  J  b  J  g 
+	 J  d  J  w  J  k  J 
+	 q  J  j  J  m  J  z 
+waarde:     2
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 j  j  j  W  j  N  D 
+	 j  A  j  j  I  F  j 
+	 J  j  F  j  I  C  j 
+	 j  A  j <n> j  j  S 
+	 j  A  B  j  j  D  G 
+	 j  W  j  K  j  Q  S 
+	 j  J  j  M  j  Z  G 
+waarde:     4
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 C  w  C  w  C  x  C 
+	 e  C  k  C  b  C  x 
+	 C  j  C  u  C  q  C 
+	 w  C  q <o> C  q  C 
+	 b  C  p  C  l  C  c 
+	 C  r  C  c  C  u  C 
+	 i  C  p  C  b  C  i 
+waarde:     0
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 c  W  c  W  c  c  c 
+	 c  X  B  K  c  E  c 
+	 J  X  c  c  Q  c  W 
+	 c  U  Q <o> c  Q  c 
+	 B  c  P  c  c  C  c 
+	 c  C  R  L  c  c  c 
+	 P  U  c  B  I  c  I 
+waarde:     2
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 V  e  V  o  V  h  V 
+	 s  V  u  V  m  V  x 
+	 V  j  V  r  V  d  V 
+	 i  V  h <p> V  b  V 
+	 r  V  v  V  o  V  y 
+	 V  y  V  j  V  e  V 
+	 b  V  v  V  p  V  r 
+waarde:     0
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 v  v  v  v  v  E  S 
+	 v  O  M  v  v  J  v 
+	 v  H  R  v  I  v  D 
+	 v  U  B <p> v  v  V 
+	 v  X  R  v  v  v  Y 
+	 J  H  v  v  B  E  Y 
+	 v  O  V  v  P  v  R 
+waarde:     6
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 V  e  V  o  V  h  V 
+	 s  V  u  V  m  V  x 
+	 V  j  V  r  V  d  V 
+	 i  V  h <q> V  b  V 
+	 r  V  v  V  o  V  y 
+	 V  y  V  j  V  e  V 
+	 b  V  v  V  p  V  r 
+waarde:     0
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 v  v  v  v  v  E  S 
+	 v  O  M  v  v  J  v 
+	 v  H  R  v  I  v  D 
+	 v  U  B <q> v  v  V 
+	 v  X  R  v  v  v  Y 
+	 J  H  v  v  B  E  Y 
+	 v  O  V  v  P  v  R 
+waarde:     6
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 N  m  N  g  N  r  N 
+	 g  N  w  N  x  N  x 
+	 N  r  N  h  N  r  N 
+	 u  N  x <r> N  u  N 
+	 a  N  c  N  y  N  t 
+	 N  e  N  p  N  o  N 
+	 t  N  b  N  e  N  b 
+waarde:    15
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 M  W  R  n  A  n  G 
+	 C  X  n  n  T  n  G 
+	 P  X  R  n  n  n  Y 
+	 T  H  n <r> E  n  n 
+	 B  U  n  n  n  n  n 
+	 n  X  R  n  n  n  n 
+	 B  U  n  n  O  n  E 
+waarde:    14
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 G  v  G  z  G  t  G 
+	 d  G  g  G  i  G  p 
+	 G  r  G  e  G  x  G 
+	 y  G  n <s> G  e  G 
+	 i  G  j  G  b  G  p 
+	 G  t  G  v  G  q  G 
+	 l  G  a  G  l  G  k 
+waarde:     7
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 V  g  g  Z  I  P  g 
+	 g  g  R  T  g  E  g 
+	 g  X  g  g  g  N  g 
+	 g  Y  J <s> I  E  g 
+	 g  B  g  P  g  g  D 
+	 V  g  Q  T  g  g  g 
+	 g  A  g  L  K  L  G 
+waarde:    11
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 B  d  B  r  B  d  B 
+	 r  B  p  B  s  B  p 
+	 B  q  B  u  B  k  B 
+	 l  B  w <t> B  p  B 
+	 y  B  p  B  l  B  l 
+	 B  z  B  b  B  a  B 
+	 e  B  g  B  z  B  m 
+waarde:     7
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 b  b  R  b  b  b  D 
+	 P  b  R  b  P  b  D 
+	 Q  b  b  K  b  b  S 
+	 W  U  b <t> P  b  Y 
+	 b  P  b  L  b  b  b 
+	 B  b  Z  L  b  E  b 
+	 b  A  Z  L  b  M  G 
+waarde:     6
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 T  l  T  j  T  n  T 
+	 f  T  r  T  d  T  p 
+	 T  y  T  r  T  y  T 
+	 x  T  m <u> T  h  T 
+	 h  T  w  T  o  T  h 
+	 T  o  T  h  T  k  T 
+	 w  T  m  T  o  T  v 
+waarde:    17
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 J  F  R  t  P  N  D 
+	 M  X  t  L  t  W  Y 
+	 t  H  t  t  t  t  Y 
+	 t  H  t <u> t  H  t 
+	 K  O  t  t  t  t  W 
+	 t  H  R  t  t  M  t 
+	 t  O  t  t  t  O  V 
+waarde:     9
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 T  l  T  j  T  n  T 
+	 f  T  r  T  d  T  p 
+	 T  y  T  r  T  y  T 
+	 x  T  m <v> T  h  T 
+	 h  M  w  M  o  M  h 
+	 M  o  M  h  M  k  M 
+	 w  M  m  M  o  M  v 
+waarde:    10
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 J  F  R  t  P  N  D 
+	 M  X  t  L  t  m  Y 
+	 W  H  t  t  t  m  Y 
+	 m  H  t <v> t  m  m 
+	 H  O  t  t  t  m  m 
+	 W  H  R  t  K  m  M 
+	 m  O  t  t  O  m  V 
+waarde:    10
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 M  u  M  c  M  p  M 
+	 b  M  b  M  o  M  h 
+	 M  y  M  g  M  l  M 
+	 b  M  c <w> M  s  M 
+	 x  M  c  M  y  M  u 
+	 M  v  M  n  M  u  M 
+	 o  M  t  M  d  M  f 
+waarde:    21
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 m  U  m  C  m  P  m 
+	 B  m  B  m  m  m  Y 
+	 m  O  m  L  m  B  G 
+	 m  H  C <w> m  m  S 
+	 m  X  C  m  m  m  Y 
+	 V  U  m  m  m  N  m 
+	 m  U  m  T  O  F  D 
+waarde:    14
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 F  c  F  u  F  z  F 
+	 p  F  l  F  h  F  h 
+	 F  y  F  e  F  r  F 
+	 n  F  s <x> F  c  F 
+	 f  F  j  F  i  F  q 
+	 F  b  F  b  F  e  F 
+	 g  F  z  F  j  F  o 
+waarde:     6
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 f  C  f  f  f  P  f 
+	 f  U  f  Z  f  f  Y 
+	 f  H  R  L  f  E  f 
+	 f  H  C <x> f  N  S 
+	 F  f  J  f  I  f  Q 
+	 f  B  f  B  f  E  f 
+	 f  f  J  Z  f  O  G 
+waarde:     8
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 X  k  X  m  X  i  X 
+	 e  X  n  X  s  X  h 
+	 X  f  X  t  X  e  X 
+	 a  X  j <y> X  v  X 
+	 w  X  y  X  l  X  m 
+	 X  q  X  h  X  o  X 
+	 r  X  f  X  y  X  q 
+waarde:     8
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 M  x  H  K  I  E  S 
+	 F  x  x  T  J  N  V 
+	 W  x  x  L  x  E  Y 
+	 M  x  x <y> x  Q  x 
+	 H  x  x  O  x  R  x 
+	 F  x  A  x  x  Y  x 
+	 Q  x  x  x  x  x  x 
+waarde:     6
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 Q  t  Q  f  Q  k  Q 
+	 s  Q  w  Q  d  Q  h 
+	 Q  f  Q  r  Q  s  Q 
+	 e  Q  z <z> Q  g  Q 
+	 e  Q  e  Q  v  Q  h 
+	 Q  w  Q  o  Q  y  Q 
+	 j  Q  m  Q  n  Q  z 
+waarde:     0
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 q  q  F  T  q  q  S 
+	 q  W  q  K  q  q  D 
+	 F  H  q  q  q  E  S 
+	 q  q  R <z> q  E  G 
+	 q  q  V  Z  q  E  q 
+	 W  H  q  q  q  J  Y 
+	 q  O  M  q  q  N  Z 
+waarde:     3
+
+-------------------------------------
+

@@ -1,0 +1,66 @@
+speler1: ..\PROGRAMS\KANS.EXE
+	 F  M  R  V  P  s  s 
+	 J  s  G  T  s  B  s 
+	 s  s  s  s  I  s  S 
+	 V  H  s <a> Q  s  s 
+	 B  A  s  P  s  Q  s 
+	 s  H  s  L  F  s  s 
+	 s  s  Z  Z  W  s  s 
+waarde:    15
+
+speler2: ..\PROGRAMS\TOEVAL.exe
+	 f  S  m  S  s  S  r 
+	 S  v  S  p  S  t  S 
+	 j  S  g  S  b  S  i 
+	 S  h  S <a> a  S  h 
+	 S  v  S  q  S  b  S 
+	 p  S  q  S  l  S  f 
+	 S  z  S  z  S  w  S 
+waarde:     8
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\KANS.EXE
+	 F  M  R  l  V  P  S 
+	 J  B  T  l  I  l  G 
+	 V  H  Q  l  l  l  B 
+	 P  A  l <b> l  l  Q 
+	 F  H  l  l  l  l  Z 
+	 Z  l  L  l  l  l  l 
+	 W  l  l  l  l  l  l 
+waarde:     8
+
+speler2: ..\PROGRAMS\TOEVAL.exe
+	 f  L  m  L  s  L  r 
+	 L  v  L  p  L  t  L 
+	 j  L  g  L  b  L  i 
+	 L  h  L <b> a  L  h 
+	 L  v  L  q  L  b  L 
+	 p  L  q  L  l  L  f 
+	 L  z  L  z  L  w  L 
+waarde:     7
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\KANS.EXE
+	 f  O  F  f  C  f  F 
+	 f  F  f  f  f  J  f 
+	 f  A  P  T  f  M  D 
+	 f  f  f <c> P  f  Y 
+	 C  f  f  L  W  f  W 
+	 f  A  W  f  V  f  Y 
+	 f  F  f  f  F  f  G 
+waarde:     8
+
+speler2: ..\PROGRAMS\TOEVAL.exe
+	 o  F  f  F  c  F  f 
+	 F  f  F  a  F  t  F 
+	 j  F  d  F  p  F  m 
+	 F  y  F <c> l  F  p 
+	 F  c  F  a  F  w  F 
+	 w  F  w  F  v  F  y 
+	 F  f  F  g  F  f  F 
+waarde:     7
+
+-------------------------------------
+

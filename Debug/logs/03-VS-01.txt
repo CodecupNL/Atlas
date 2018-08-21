@@ -1,0 +1,66 @@
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <a> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   125
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <a> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   125
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <b> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <b> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <c> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <c> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+

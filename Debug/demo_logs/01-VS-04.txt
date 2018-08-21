@@ -1,0 +1,572 @@
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 y  I  E  l  D  E  r 
+	 Z  E  L  k  O  v  A 
+	 Z  l  k <a> w  u  t 
+	 Y  D  O  j  g  q  d 
+	 V  E  v  u  g  u  k 
+	 A  r  a  B  o  x  p 
+waarde:    92
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 W  U  J  z  v  L  y 
+	 v  a  R  K  Q  e  y 
+	 V  U  R  z  K  L  G 
+	 V  a  d <a> i  e  Y 
+	 D  U  T  z  K  e  G 
+	 P  o  A  z  o  e  y 
+	 b  a  X  z  O  l  d 
+waarde:    17
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 y  I  E  l  D  E  r 
+	 Z  E  L  k  O  v  A 
+	 Z  l  k <b> w  u  t 
+	 Y  D  O  j  g  q  d 
+	 V  E  v  u  g  u  k 
+	 A  r  a  B  o  x  p 
+waarde:    90
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 W  U  J  z  v  L  y 
+	 v  a  R  K  Q  e  y 
+	 V  U  R  z  K  L  G 
+	 V  a  d <b> i  e  Y 
+	 D  U  T  z  K  e  G 
+	 P  o  A  z  o  e  y 
+	 b  a  X  z  O  l  d 
+waarde:    17
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  i  e  L  D  E  r 
+	 Z  E  L  K  o  V  a 
+	 Z  l  K <c> g  p  y 
+	 Y  D  O  x  j  f  j 
+	 v  E  v  s  q  c  r 
+	 a  r  A  B  i  x  m 
+waarde:    85
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 Q  O  v  z  J  E  S 
+	 V  X  R  z  I  C  y 
+	 d  a  R  z  F  e  y 
+	 P  A  R <c> k  L  G 
+	 J  A  v  z  V  e  y 
+	 M  o  a  z  k  e  y 
+	 b  Y  X  l  I  l  d 
+waarde:    22
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  I  E  L  D  E  r 
+	 Z  E  L  K  O  V  a 
+	 Z  l  h <d> u  n  u 
+	 y  D  b  n  s  q  m 
+	 V  E  e  g  t  g  h 
+	 A  R  f  p  i  x  y 
+waarde:    80
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 v  A  Q  z  v  N  y 
+	 M  U  R  z  i  N  G 
+	 d  a  d  z  I  e  y 
+	 P  H  r <d> e  l  S 
+	 F  U  A  T  l  e  y 
+	 B  Y  o  z  k  e  G 
+	 v  X  H  z  E  L  Y 
+waarde:    23
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  L  K  O  q  p 
+	 Z  L  l <e> y  h  b 
+	 y  d  s  p  f  t  c 
+	 V  E  p  j  h  n  f 
+	 A  R  m  b  h  s  f 
+waarde:    65
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 J  P  v  z  B  F  y 
+	 v  H  B  Z  i  N  y 
+	 F  a  C  z  F  e  y 
+	 M  a  r <e> D  l  Y 
+	 P  H  r  z  S  e  Y 
+	 k  H  P  z  l  e  d 
+	 Q  e  o  T  L  l  S 
+waarde:    19
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  z  Y  V  A 
+	 y  I  E  l  D  E  r 
+	 Z  E  l  K  O  v  A 
+	 Z  l  K <f> w  d  l 
+	 y  D  O  p  p  s  j 
+	 V  E  V  y  x  p  t 
+	 A  r  A  a  w  z  r 
+waarde:    86
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 W  v  R  z  v  L  y 
+	 P  a  R  z  i  e  y 
+	 P  a  P  Z  d  e  Y 
+	 V  X  D <f> k  e  Y 
+	 J  o  T  L  k  L  Y 
+	 v  a  Z  z  W  e  d 
+	 A  o  R  z  a  L  S 
+waarde:    19
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  z  Y  V  A 
+	 y  I  E  l  D  E  r 
+	 Z  E  l  K  O  v  A 
+	 Z  l  K <g> w  d  l 
+	 y  D  O  p  p  s  j 
+	 V  E  V  y  x  p  t 
+	 A  r  A  a  w  z  r 
+waarde:    86
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 W  v  R  z  v  L  y 
+	 P  a  R  z  i  e  y 
+	 P  a  P  Z  d  e  Y 
+	 V  X  D <g> k  e  Y 
+	 J  o  T  L  k  L  Y 
+	 v  a  Z  z  W  e  d 
+	 A  o  R  z  a  L  S 
+waarde:    19
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  L  k  O  V  a 
+	 Z  L  k <h> y  s  p 
+	 y  D  b  j  j  f  q 
+	 V  E  k  j  n  c  f 
+	 a  R  x  b  d  z  j 
+waarde:    71
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 J  J  v  z  J  N  y 
+	 v  a  C  Z  i  e  y 
+	 F  A  B  z  K  l  y 
+	 F  A  r <h> Q  e  Y 
+	 d  P  Z  K  J  e  Y 
+	 D  X  r  z  l  l  d 
+	 v  o  B  z  K  e  S 
+waarde:     8
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  i  E  l  D  E  r 
+	 Z  E  L  K  o  v  A 
+	 Z  L  K <i> u  w  m 
+	 y  D  l  c  x  g  t 
+	 V  E  v  h  g  q  w 
+	 A  R  z  e  i  z  t 
+waarde:    73
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 C  H  v  z  Q  v  y 
+	 W  X  W  z  I  e  G 
+	 M  U  T  L  I  e  y 
+	 d  a  R <i> V  e  y 
+	 V  a  Z  z  k  l  G 
+	 k  O  r  z  a  e  Y 
+	 L  E  T  z  Z  l  d 
+waarde:    24
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  v  A 
+	 Y  I  E  L  d  E  R 
+	 Z  E  L  k  o  V  a 
+	 Z  L  K <j> f  n  s 
+	 Y  D  u  u  h  f  f 
+	 v  E  g  q  u  q  m 
+	 A  R  d  c  i  z  u 
+waarde:    74
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 Q  U  V  z  F  Q  y 
+	 F  U  V  z  i  N  y 
+	 M  H  Z  z  F  e  y 
+	 C  a  r <j> I  e  y 
+	 D  a  r  z  O  e  D 
+	 v  A  G  z  l  l  S 
+	 k  U  U  l  K  e  d 
+waarde:    13
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  y  Z  Z  Y  V  A 
+	 Y  i  E  L  D  E  R 
+	 Z  e  L  k  o  V  A 
+	 Z  L  e <k> q  m  u 
+	 Y  D  u  f  q  j  q 
+	 V  E  i  m  j  f  c 
+	 A  R  g  b  i  m  u 
+waarde:    75
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 M  F  J  z  v  Q  Y 
+	 Q  a  F  z  I  J  y 
+	 v  M  C  z  Q  e  y 
+	 B  a  r <k> I  l  y 
+	 M  O  r  z  e  e  d 
+	 v  U  U  z  l  E  d 
+	 E  U  a  K  I  l  G 
+waarde:    15
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  y  Z  Z  Y  V  A 
+	 Y  i  E  L  D  E  R 
+	 Z  e  L  k  o  V  A 
+	 Z  L  e <l> q  m  u 
+	 Y  D  u  f  q  j  q 
+	 V  E  i  m  j  f  c 
+	 A  R  g  b  i  m  u 
+waarde:    74
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 M  F  J  z  v  Q  Y 
+	 Q  a  F  z  I  J  y 
+	 v  M  C  z  Q  e  y 
+	 B  a  r <l> I  l  y 
+	 M  O  r  z  e  e  d 
+	 v  U  U  z  l  E  d 
+	 E  U  a  K  I  l  G 
+waarde:    17
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  i  E  L  D  E  R 
+	 Z  E  L  K  o  f  a 
+	 Z  L  j <m> s  y  y 
+	 Y  D  o  f  f  w  g 
+	 V  E  y  g  h  n  s 
+	 a  R  w  b  p  z  f 
+waarde:    67
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 F  H  F  z  v  B  G 
+	 W  a  v  z  I  N  y 
+	 S  A  G  z  d  e  y 
+	 F  Y  r <m> P  e  S 
+	 d  A  Z  z  W  e  y 
+	 J  O  r  z  O  l  y 
+	 k  Y  F  l  l  e  Y 
+waarde:    20
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  i  E  L  d  E  r 
+	 Z  E  L  K  O  v  p 
+	 Z  L  y <n> c  x  h 
+	 Y  D  v  x  t  n  h 
+	 V  E  i  p  q  m  c 
+	 A  R  g  b  u  w  p 
+waarde:    59
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 P  X  Q  z  C  v  y 
+	 M  a  C  z  I  N  y 
+	 v  X  B  z  P  e  y 
+	 V  a  R <n> W  l  y 
+	 V  H  r  T  e  e  D 
+	 k  H  Y  z  I  e  d 
+	 P  U  o  z  l  l  G 
+waarde:    14
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  L  D  E  r 
+	 Z  E  L  K  o  V  A 
+	 Z  L  K <o> m  p  s 
+	 Y  D  y  p  f  q  x 
+	 V  E  e  x  h  n  c 
+	 A  r  b  b  i  q  c 
+waarde:    80
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 P  X  v  z  F  E  y 
+	 M  A  Q  z  I  N  y 
+	 v  H  P  z  C  e  y 
+	 C  a  R <o> I  e  y 
+	 Q  X  R  z  k  l  d 
+	 B  O  v  z  B  e  S 
+	 k  a  Y  l  E  l  d 
+waarde:    19
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  i  E  L  d  E  R 
+	 z  E  L  k  o  V  a 
+	 Z  L  K <p> h  u  t 
+	 Y  d  o  c  u  f  m 
+	 V  E  V  f  p  u  c 
+	 A  r  A  b  i  t  h 
+waarde:    91
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 F  C  v  z  I  P  y 
+	 v  O  B  z  F  e  D 
+	 C  a  U  z  M  l  y 
+	 v  U  r <p> O  e  y 
+	 H  a  R  Z  l  e  y 
+	 v  H  A  z  k  l  D 
+	 a  U  T  K  T  e  I 
+waarde:    22
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  i  E  L  d  E  R 
+	 z  E  L  k  o  V  a 
+	 Z  L  K <q> h  u  t 
+	 Y  d  o  c  u  f  m 
+	 V  E  V  f  p  u  c 
+	 A  r  A  b  i  t  h 
+waarde:    91
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 F  C  v  z  I  P  y 
+	 v  O  B  z  F  e  D 
+	 C  a  U  z  M  l  y 
+	 v  U  r <q> O  e  y 
+	 H  a  R  Z  l  e  y 
+	 v  H  A  z  k  l  D 
+	 a  U  T  K  T  e  I 
+waarde:    22
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  I  E  L  D  E  r 
+	 z  E  L  k  o  V  a 
+	 Z  L  K <r> f  w  u 
+	 Y  D  o  s  u  f  y 
+	 V  E  V  m  x  y  f 
+	 a  R  a  b  i  r  l 
+waarde:    87
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 M  O  v  z  v  F  y 
+	 F  A  R  z  i  e  S 
+	 W  X  B  z  F  e  y 
+	 d  A  Y <r> K  e  y 
+	 v  U  U  Z  L  l  y 
+	 v  A  r  z  O  e  Y 
+	 R  A  I  l  k  l  d 
+waarde:    23
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  l  D  e  r 
+	 z  E  L  K  o  V  a 
+	 z  L  K <s> w  p  m 
+	 Y  D  O  w  u  w  w 
+	 V  E  s  s  g  x  p 
+	 A  R  w  u  i  e  e 
+waarde:    78
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 W  W  v  z  v  W  y 
+	 P  a  R  z  i  e  S 
+	 P  U  d  z  I  E  G 
+	 W  X  r <s> l  e  y 
+	 M  a  v  Z  k  l  y 
+	 W  O  U  L  E  e  y 
+	 S  A  o  Z  k  E  d 
+waarde:    17
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  y  V  A 
+	 Y  I  e  l  D  e  r 
+	 Z  e  L  k  O  V  A 
+	 Z  L  K <t> w  t  w 
+	 Y  D  O  j  m  s  w 
+	 V  E  V  u  m  w  h 
+	 A  r  a  b  i  c  d 
+waarde:    89
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 v  U  J  z  W  E  y 
+	 B  a  R  L  M  v  Y 
+	 M  a  W  z  K  E  y 
+	 v  o  R <t> i  E  y 
+	 W  H  T  z  I  l  d 
+	 W  a  D  z  k  e  d 
+	 v  A  C  z  o  l  S 
+waarde:    19
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  i  E  L  d  E  r 
+	 Z  E  L  k  o  V  A 
+	 Z  L  K <u> x  d  n 
+	 Y  d  l  q  h  s  n 
+	 V  E  r  m  t  m  c 
+	 A  R  z  b  i  z  g 
+waarde:    74
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 M  Q  v  z  I  B  y 
+	 v  H  R  z  I  M  D 
+	 D  a  z  z  C  e  y 
+	 G  X  Z <u> l  l  y 
+	 v  a  N  T  l  e  y 
+	 R  e  r  z  a  e  S 
+	 L  O  Z  K  k  N  D 
+waarde:    18
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  i  E  L  d  E  r 
+	 Z  E  L  k  o  V  A 
+	 Z  L  K <v> x  d  n 
+	 Y  d  l  q  h  s  n 
+	 V  E  r  m  t  m  c 
+	 A  R  z  b  i  z  g 
+waarde:    74
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 M  Q  v  z  I  B  y 
+	 v  H  R  z  I  M  D 
+	 D  a  z  z  C  e  y 
+	 G  X  Z <v> l  l  y 
+	 v  a  N  T  l  e  y 
+	 R  e  r  z  a  e  S 
+	 L  O  Z  K  k  N  D 
+waarde:    17
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  v  A 
+	 Y  I  E  l  d  E  r 
+	 Z  E  L  K  o  v  A 
+	 Z  l  K <w> j  h  v 
+	 Y  d  O  s  j  q  g 
+	 v  E  V  f  u  t  f 
+	 A  r  A  b  I  z  e 
+waarde:    96
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 V  V  R  z  F  V  y 
+	 B  a  R  z  i  L  y 
+	 J  a  J  z  l  e  S 
+	 Q  U  T <w> k  e  y 
+	 H  E  v  z  k  L  y 
+	 F  O  a  z  o  e  D 
+	 G  a  V  Z  i  e  D 
+waarde:    18
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  e  l  d  E  r 
+	 Z  E  L  K  o  V  a 
+	 Z  L  K <x> x  w  p 
+	 Y  D  e  t  j  t  q 
+	 V  E  v  t  j  g  c 
+	 A  R  l  z  z  u  f 
+waarde:    72
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 v  O  J  z  J  E  D 
+	 v  a  z  z  W  C  y 
+	 Q  X  z  T  i  e  y 
+	 P  a  R <x> F  e  y 
+	 v  U  T  z  Z  l  y 
+	 V  A  Z  T  k  e  G 
+	 k  E  r  L  L  l  d 
+waarde:    16
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  e  l  d  E  R 
+	 Z  E  L  k  o  V  A 
+	 Z  L  k <y> w  g  b 
+	 Y  D  O  p  j  j  n 
+	 V  E  g  g  j  m  x 
+	 A  r  b  b  s  r  k 
+waarde:    74
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 P  O  v  z  W  J  y 
+	 J  a  M  L  K  E  G 
+	 v  J  r  z  i  e  D 
+	 B  a  R <y> K  e  y 
+	 B  X  d  z  K  l  y 
+	 v  S  R  z  l  N  y 
+	 B  a  G  z  o  e  G 
+waarde:    16
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  y  V  A 
+	 Y  I  E  L  d  E  r 
+	 Z  E  L  k  O  V  A 
+	 Z  L  p <z> j  s  c 
+	 Y  d  q  n  h  j  s 
+	 V  E  y  u  q  q  x 
+	 A  R  u  t  q  z  w 
+waarde:    72
+
+speler2: ..\PROGRAMS\KANS.EXE
+	 v  U  Q  z  J  N  y 
+	 Q  a  J  z  v  e  Y 
+	 D  H  R  z  i  l  D 
+	 C  X  W <z> Q  e  y 
+	 v  a  T  z  l  e  y 
+	 Q  U  r  z  K  l  S 
+	 P  o  Y  Z  a  e  S 
+waarde:    13
+
+-------------------------------------
+

@@ -1,0 +1,66 @@
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 P  r  P  r  P  e  P 
+	 d  P  e  P  e  P  a 
+	 P  d  P  l  P  e  P 
+	 l  P  i <a> P  a  P 
+	 v  P  v  P  y  P  y 
+	 P  y  P  y  P  z  P 
+	 z  P  z  P  z  P  z 
+waarde:    21
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  p  p  p  p  p 
+	 Z  L  p <a> p  p  p 
+	 Y  D  p  p  p  p  p 
+	 V  E  p  p  p  p  p 
+	 A  R  p  p  p  p  p 
+waarde:    58
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 P  r  P  r  P  e  P 
+	 d  P  e  P  e  P  a 
+	 P  d  P  l  P  e  P 
+	 l  P  i <b> P  a  P 
+	 v  P  v  P  y  P  y 
+	 P  y  P  y  P  z  P 
+	 z  P  z  P  z  P  z 
+waarde:    18
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  p  p  p  p  p 
+	 Z  L  p <b> p  p  p 
+	 Y  D  p  p  p  p  p 
+	 V  E  p  p  p  p  p 
+	 A  R  p  p  p  p  p 
+waarde:    54
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 H  r  H  r  H  e  H 
+	 d  H  e  H  e  H  a 
+	 H  d  H  l  H  e  H 
+	 l  H  i <c> H  a  H 
+	 v  H  v  H  y  H  y 
+	 H  y  H  y  H  z  H 
+	 z  H  z  H  z  H  z 
+waarde:    16
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  h  h  h  h  h 
+	 Z  L  h <c> h  h  h 
+	 Y  D  h  h  h  h  h 
+	 V  E  h  h  h  h  h 
+	 A  R  h  h  h  h  h 
+waarde:    58
+
+-------------------------------------
+

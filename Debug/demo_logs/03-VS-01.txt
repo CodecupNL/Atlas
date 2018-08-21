@@ -1,0 +1,572 @@
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <a> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   125
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <a> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   125
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <b> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <b> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <c> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <c> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <d> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <d> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <e> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <e> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <f> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <f> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <g> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <g> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <h> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <h> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <i> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <i> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <j> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <j> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <k> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <k> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <l> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <l> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <m> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <m> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <n> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <n> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <o> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <o> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <p> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <p> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <q> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <q> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <r> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <r> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <s> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   124
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <s> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   124
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <t> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <t> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <u> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <u> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <v> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <v> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <w> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <w> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <x> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <x> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <y> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <y> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\LIJST2.EXE
+	 z  y  z  z  y  v  A 
+	 y  I  E  L  D  E  R 
+	 z  E  L  k  O  v  A 
+	 z  L  k <z> w  A  b 
+	 y  D  O  W  I  d  I 
+	 v  E  v  e  e  E  z 
+	 a  R  A  b  I  z  E 
+waarde:   123
+
+speler2: ..\PROGRAMS\LIJST.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  i  e  l  d  e  r 
+	 Z  e  l  K  o  V  a 
+	 Z  l  K <z> W  a  B 
+	 Y  d  o  w  i  D  i 
+	 V  e  V  E  E  e  Z 
+	 A  r  a  B  i  Z  e 
+waarde:   123
+
+-------------------------------------
+

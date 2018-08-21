@@ -1,0 +1,572 @@
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 D  r  D  r  D  e  D 
+	 e  D  e  D  a  D  l 
+	 D  e  D  l  D  i  D 
+	 a  D  v <a> D  v  D 
+	 y  D  y  D  y  D  y 
+	 D  z  D  z  D  z  D 
+	 z  D  z  D  l  D  k 
+waarde:    18
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  d  E  R 
+	 Z  E  L  K  d  d  d 
+	 Z  L  d <a> d  d  d 
+	 Y  d  d  d  d  d  d 
+	 V  E  d  d  d  d  d 
+	 A  R  d  d  d  d  d 
+waarde:    62
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 D  r  D  r  D  e  D 
+	 e  D  e  D  a  D  l 
+	 D  e  D  l  D  i  D 
+	 a  D  v <b> D  v  D 
+	 y  D  y  D  y  D  y 
+	 D  z  D  z  D  z  D 
+	 z  D  z  D  l  D  k 
+waarde:    15
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  d  E  R 
+	 Z  E  L  K  d  d  d 
+	 Z  L  d <b> d  d  d 
+	 Y  d  d  d  d  d  d 
+	 V  E  d  d  d  d  d 
+	 A  R  d  d  d  d  d 
+waarde:    58
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 Y  r  Y  r  Y  e  Y 
+	 d  Y  e  Y  e  Y  a 
+	 Y  d  Y  l  Y  e  Y 
+	 l  Y  i <c> Y  a  Y 
+	 v  Y  v  Y  z  Y  z 
+	 Y  z  Y  z  Y  z  Y 
+	 l  Y  k  Y  o  Y  v 
+waarde:    21
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  y  Z  Z  y  V  A 
+	 y  I  E  L  D  E  R 
+	 Z  E  L  K  O  V  y 
+	 Z  L  y <c> y  y  y 
+	 y  D  y  y  y  y  y 
+	 V  E  y  y  y  y  y 
+	 A  R  y  y  y  y  y 
+waarde:    58
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 Q  r  Q  r  Q  e  Q 
+	 d  Q  e  Q  e  Q  a 
+	 Q  d  Q  l  Q  e  Q 
+	 l  Q  i <d> Q  a  Q 
+	 v  Q  v  Q  y  Q  y 
+	 Q  y  Q  y  Q  z  Q 
+	 z  Q  z  Q  z  Q  z 
+waarde:     1
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  q  q  q  q  q 
+	 Z  L  q <d> q  q  q 
+	 Y  D  q  q  q  q  q 
+	 V  E  q  q  q  q  q 
+	 A  R  q  q  q  q  q 
+waarde:    54
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 J  r  J  r  J  e  J 
+	 d  J  e  J  e  J  a 
+	 J  d  J  l  J  e  J 
+	 l  J  i <e> J  a  J 
+	 v  J  v  J  y  J  y 
+	 J  y  J  y  J  z  J 
+	 z  J  z  J  z  J  z 
+waarde:     0
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  j  j  j  j  j 
+	 Z  L  j <e> j  j  j 
+	 Y  D  j  j  j  j  j 
+	 V  E  j  j  j  j  j 
+	 A  R  j  j  j  j  j 
+waarde:    54
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 C  r  C  r  C  e  C 
+	 d  C  e  C  e  C  a 
+	 C  d  C  l  C  e  C 
+	 l  C  i <f> C  a  C 
+	 v  C  v  C  y  C  y 
+	 C  y  C  y  C  z  C 
+	 z  C  z  C  z  C  z 
+waarde:     4
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  c  c  c  c  c 
+	 Z  L  c <f> c  c  c 
+	 Y  D  c  c  c  c  c 
+	 V  E  c  c  c  c  c 
+	 A  R  c  c  c  c  c 
+waarde:    56
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 C  r  C  r  C  e  C 
+	 d  C  e  C  e  C  a 
+	 C  d  C  l  C  e  C 
+	 l  C  i <g> C  a  C 
+	 v  C  v  C  y  C  y 
+	 C  y  C  y  U  z  U 
+	 z  U  z  U  z  U  z 
+waarde:     3
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  u  u  u  u  u 
+	 Z  L  c <g> c  c  c 
+	 Y  D  c  c  c  c  c 
+	 V  E  c  c  c  c  c 
+	 A  R  c  c  c  c  c 
+waarde:    59
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 U  r  U  r  U  e  U 
+	 d  U  e  U  e  U  a 
+	 U  d  U  l  U  e  U 
+	 l  U  i <h> U  a  U 
+	 v  U  v  U  y  U  y 
+	 U  y  U  y  U  z  U 
+	 z  U  z  U  z  U  z 
+waarde:     6
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  u  u  u  u  u 
+	 Z  L  u <h> u  u  u 
+	 Y  D  u  u  u  u  u 
+	 V  E  u  u  u  u  u 
+	 A  R  u  u  u  u  u 
+waarde:    54
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 N  r  N  r  N  e  N 
+	 d  N  e  N  e  N  a 
+	 N  d  N  l  N  e  N 
+	 l  N  i <i> N  a  N 
+	 v  N  v  N  y  N  y 
+	 N  y  N  y  N  z  N 
+	 z  N  z  N  z  N  z 
+waarde:    16
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  n  n  n  n  n 
+	 Z  L  n <i> n  n  n 
+	 Y  D  n  n  n  n  n 
+	 V  E  n  n  n  n  n 
+	 A  R  n  n  n  n  n 
+waarde:    62
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 G  r  G  r  G  e  G 
+	 d  G  e  G  e  G  a 
+	 G  d  G  l  G  e  G 
+	 l  G  i <j> G  a  G 
+	 v  G  v  G  y  G  y 
+	 G  y  G  y  G  z  G 
+	 z  G  z  G  z  G  z 
+waarde:     6
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  g  g  g  g  g 
+	 Z  L  g <j> g  g  g 
+	 Y  D  g  g  g  g  g 
+	 V  E  g  g  g  g  g 
+	 A  R  g  g  g  g  g 
+waarde:    62
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 Y  r  Y  r  Y  e  Y 
+	 d  Y  e  Y  e  Y  a 
+	 Y  d  Y  l  Y  e  Y 
+	 l  Y  i <k> Y  a  Y 
+	 v  Y  v  Y  z  Y  z 
+	 Y  z  Y  z  Y  z  Y 
+	 l  Y  k  Y  o  Y  v 
+waarde:    20
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  y  Z  Z  y  V  A 
+	 y  I  E  L  D  E  R 
+	 Z  E  L  K  O  V  y 
+	 Z  L  y <k> y  y  y 
+	 y  D  y  y  y  y  y 
+	 V  E  y  y  y  y  y 
+	 A  R  y  y  y  y  y 
+waarde:    58
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 T  r  T  r  T  e  T 
+	 d  T  e  T  e  T  a 
+	 T  d  T  l  T  e  T 
+	 l  T  i <l> T  a  T 
+	 v  T  v  T  y  T  y 
+	 T  y  T  y  T  z  T 
+	 z  T  z  T  z  T  z 
+waarde:    16
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  t  t  t  t  t 
+	 Z  L  t <l> t  t  t 
+	 Y  D  t  t  t  t  t 
+	 V  E  t  t  t  t  t 
+	 A  R  t  t  t  t  t 
+waarde:    62
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 T  r  T  r  T  e  T 
+	 d  T  e  T  e  T  a 
+	 T  d  T  l  T  e  T 
+	 l  T  i <m> T  a  T 
+	 v  T  v  T  y  T  y 
+	 T  y  T  y  T  z  T 
+	 z  T  z  T  z  T  z 
+waarde:    15
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  t  t  t  t  t 
+	 Z  L  t <m> t  t  t 
+	 Y  D  t  t  t  t  t 
+	 V  E  t  t  t  t  t 
+	 A  R  t  t  t  t  t 
+waarde:    62
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 M  r  M  r  M  e  M 
+	 d  M  e  M  e  M  a 
+	 M  d  M  l  M  e  M 
+	 l  M  i <n> M  a  M 
+	 v  M  v  M  y  M  y 
+	 M  y  M  y  M  z  M 
+	 z  M  z  M  z  M  z 
+waarde:    25
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  m  m  m  m  m 
+	 Z  L  m <n> m  m  m 
+	 Y  D  m  m  m  m  m 
+	 V  E  m  m  m  m  m 
+	 A  R  m  m  m  m  m 
+waarde:    60
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 E  r  E  r  E  d  E 
+	 a  E  d  E  l  E  l 
+	 E  i  E  a  E  v  E 
+	 v  E  y <o> E  y  E 
+	 y  E  y  E  z  E  z 
+	 E  z  E  z  E  z  E 
+	 l  E  k  E  o  E  v 
+waarde:    34
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  e  L  D  e  R 
+	 Z  e  L  K  O  V  e 
+	 Z  L  e <o> e  e  e 
+	 Y  D  e  e  e  e  e 
+	 V  e  e  e  e  e  e 
+	 A  R  e  e  e  e  e 
+waarde:    70
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 X  r  X  r  X  e  X 
+	 d  X  e  X  e  X  a 
+	 X  d  X  l  X  e  X 
+	 l  X  i <p> X  a  X 
+	 v  X  v  X  y  X  y 
+	 X  y  X  y  X  z  X 
+	 z  X  z  X  z  X  z 
+waarde:    11
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  x  x  x  x  x 
+	 Z  L  x <p> x  x  x 
+	 Y  D  x  x  x  x  x 
+	 V  E  x  x  x  x  x 
+	 A  R  x  x  x  x  x 
+waarde:    60
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 Q  r  Q  r  Q  e  Q 
+	 d  Q  e  Q  e  Q  a 
+	 Q  d  Q  l  Q  e  Q 
+	 l  Q  i <q> Q  a  Q 
+	 v  Q  v  Q  y  Q  y 
+	 Q  y  Q  y  Q  z  Q 
+	 z  Q  z  Q  z  Q  z 
+waarde:     0
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  q  q  q  q  q 
+	 Z  L  q <q> q  q  q 
+	 Y  D  q  q  q  q  q 
+	 V  E  q  q  q  q  q 
+	 A  R  q  q  q  q  q 
+waarde:    54
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 Q  r  Q  r  Q  e  Q 
+	 d  Q  e  Q  e  Q  a 
+	 Q  d  Q  l  Q  e  Q 
+	 l  Q  i <r> Q  a  Q 
+	 v  Q  v  Q  y  Q  y 
+	 Q  y  Q  y  Q  z  Q 
+	 z  Q  z  Q  z  Q  z 
+waarde:     0
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  q  q  q  q  q 
+	 Z  L  q <r> q  q  q 
+	 Y  D  q  q  q  q  q 
+	 V  E  q  q  q  q  q 
+	 A  R  q  q  q  q  q 
+waarde:    54
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 I  r  I  r  I  e  I 
+	 d  I  e  I  e  I  a 
+	 I  d  I  l  I  e  I 
+	 l  I  a <s> I  v  I 
+	 v  I  y  I  y  I  y 
+	 I  y  I  z  I  z  I 
+	 z  I  z  I  z  I  l 
+waarde:    13
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  i  E  L  D  E  R 
+	 Z  E  L  i  i  i  i 
+	 Z  L  i <s> i  i  i 
+	 Y  D  i  i  i  i  i 
+	 V  E  i  i  i  i  i 
+	 A  R  i  i  i  i  i 
+waarde:    60
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 B  r  B  r  B  e  B 
+	 d  B  e  B  e  B  a 
+	 B  d  B  l  B  e  B 
+	 l  B  i <t> B  a  B 
+	 v  B  v  B  y  B  y 
+	 B  y  B  y  B  z  B 
+	 z  B  z  B  z  B  z 
+waarde:    21
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  b  b  b  b  b 
+	 Z  L  b <t> b  b  b 
+	 Y  D  b  b  b  b  b 
+	 V  E  b  b  b  b  b 
+	 A  R  b  b  b  b  b 
+waarde:    62
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 U  r  U  r  U  e  U 
+	 d  U  e  U  e  U  a 
+	 U  d  U  l  U  e  U 
+	 l  U  i <u> U  a  U 
+	 v  U  v  U  y  U  y 
+	 U  y  U  y  U  z  U 
+	 z  U  z  U  z  U  z 
+waarde:     6
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  u  u  u  u  u 
+	 Z  L  u <u> u  u  u 
+	 Y  D  u  u  u  u  u 
+	 V  E  u  u  u  u  u 
+	 A  R  u  u  u  u  u 
+waarde:    54
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 O  r  O  r  O  e  O 
+	 d  O  e  O  e  O  a 
+	 O  d  O  l  O  e  O 
+	 l  O  i <v> O  a  O 
+	 v  O  v  O  y  O  y 
+	 O  y  O  y  O  z  O 
+	 z  O  z  O  z  O  z 
+waarde:    25
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  o  o  o  o  o 
+	 Z  L  o <v> o  o  o 
+	 Y  D  o  o  o  o  o 
+	 V  E  o  o  o  o  o 
+	 A  R  o  o  o  o  o 
+waarde:    58
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 O  r  O  r  O  e  H 
+	 d  H  e  H  e  H  a 
+	 H  d  H  l  H  e  H 
+	 l  H  i <w> H  a  H 
+	 v  H  v  H  y  H  y 
+	 H  y  H  y  H  z  H 
+	 z  H  z  H  z  H  z 
+waarde:    20
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  h  h  o  h  h 
+	 Z  L  h <w> h  h  h 
+	 Y  D  o  h  h  h  h 
+	 V  E  h  o  h  h  h 
+	 A  R  h  h  h  h  h 
+waarde:    65
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 H  r  H  r  H  e  H 
+	 d  H  e  H  e  H  a 
+	 H  d  H  l  H  e  H 
+	 l  H  i <x> H  a  H 
+	 v  H  v  H  y  H  y 
+	 H  y  H  y  H  z  H 
+	 z  H  z  H  z  H  z 
+waarde:    15
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  h  h  h  h  h 
+	 Z  L  h <x> h  h  h 
+	 Y  D  h  h  h  h  h 
+	 V  E  h  h  h  h  h 
+	 A  R  h  h  h  h  h 
+waarde:    58
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 A  r  A  r  A  e  A 
+	 d  A  e  A  e  A  d 
+	 A  l  A  e  A  l  A 
+	 i  A  v <y> A  v  A 
+	 y  A  y  A  y  A  y 
+	 A  z  A  z  A  z  A 
+	 z  A  z  A  l  A  k 
+waarde:    35
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  a 
+	 Y  I  E  L  D  E  R 
+	 Z  E  L  K  a  a  a 
+	 Z  L  a <y> a  a  a 
+	 Y  D  a  a  a  a  a 
+	 V  E  a  a  a  a  a 
+	 a  R  a  a  a  a  a 
+waarde:    79
+
+-------------------------------------
+
+speler1: ..\PROGRAMS\TOEVAL.exe
+	 S  r  S  r  S  e  S 
+	 d  S  e  S  e  S  a 
+	 S  d  S  l  S  e  S 
+	 l  S  i <z> S  a  S 
+	 v  S  v  S  y  S  y 
+	 S  y  S  y  S  z  S 
+	 z  S  z  S  z  S  z 
+waarde:    16
+
+speler2: ..\PROGRAMS\LIJST2.EXE
+	 Z  Y  Z  Z  Y  V  A 
+	 Y  I  E  L  D  E  R 
+	 Z  E  s  s  s  s  s 
+	 Z  L  s <z> s  s  s 
+	 Y  D  s  s  s  s  s 
+	 V  E  s  s  s  s  s 
+	 A  R  s  s  s  s  s 
+waarde:    64
+
+-------------------------------------
+
